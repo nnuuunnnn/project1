@@ -1,2 +1,3 @@
 # project1
-group project
+Greater Sydney Bustling Index – Data Integration & Spatial Analysis
+
